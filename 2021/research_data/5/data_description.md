@@ -1,11 +1,11 @@
-# Potential Wild Bee Habitat in Germany
+# Potential Wild Bee Habitat in Germany (5m Raster)
 
-# Basic information: 
-Format: GeoTIFF
-Resolution: 5 x 5 m 
-Coordinate System: EPSG: 3035 (ETRS89, LAEA)
-Reference year: 2015
-Coverage: Germany
+# Basic information:
+- Format: GeoTIFF
+- Resolution: 5 x 5 m
+- Coordinate System: EPSG: 3035 (ETRS89, LAEA)
+- Reference year: 2015
+- Coverage: Germany
 
 # For details on data access, method and use possibility, please directly contact with [Ms. Meier](https://www.ioer.de/institut/beschaeftigte/meier)
 
@@ -13,11 +13,11 @@ Coverage: Germany
 Meier, S., Walz, U., Syrbe, R.-U., & Grunewald, K. (2021). Potential Wild Bee Habitat in Germany (Version 2021) [Data set]. Leibniz Institute of Ecological Urban and Regional Development, Weberplatz 1, 01217 Dresden, Germany. https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-5
 
 
-#Hinweis: 
+#Hinweis:
 
-Der Lizenznehmer (IÖR) ist verpflichtet folgende Quellenangabe deutlich sichtbar anzubringen:Geobasisdaten: © GeoBasis-DE / BKG (Jahr des Datenbezugs);  
+Der Lizenznehmer (IÖR) ist verpflichtet folgende Quellenangabe deutlich sichtbar anzubringen:Geobasisdaten: © GeoBasis-DE / BKG (Jahr des Datenbezugs);
 
-Nutzungsbedingungen: http://sg.geodatenzentrum.de/web_public/nutzungsbedingungen.pdf  
+Nutzungsbedingungen: http://sg.geodatenzentrum.de/web_public/nutzungsbedingungen.pdf
 
-Dies gilt auch, wenn räumliche Ausschnitte von Geoanwendungen weiterverwendet werden.   Ansonsten gelten die Bestimmungen des Vertrages über die kontinuierliche Übermittlung amtlicher 
-digitaler Geobasisdaten der Länder zur Nutzung im Bundesbereich (V GeoBund) – gültig ab 01.07.2019. 
+Dies gilt auch, wenn räumliche Ausschnitte von Geoanwendungen weiterverwendet werden.   Ansonsten gelten die Bestimmungen des Vertrages über die kontinuierliche Übermittlung amtlicher
+digitaler Geobasisdaten der Länder zur Nutzung im Bundesbereich (V GeoBund) – gültig ab 01.07.2019.
