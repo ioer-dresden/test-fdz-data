@@ -1,4 +1,4 @@
-# Stätische Grünflächen und Indikatoren: Dresden
+# Städtische Grünflächen und Indikatoren: Dresden
 
 # [Data Download as json](https://github.com/ioer-dresden/fdz/blob/99e06a0ab893bbc54c801de9651540dcc202a9f5/2021/research_data/1/all_indicators_DD.json)
 

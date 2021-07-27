@@ -1,4 +1,4 @@
-# Stätische Grünflächen und Aktivitäten: Dresden
+# Städtische Grünflächen und Aktivitäten: Dresden
 
 # [Data Download as json ](https://github.com/ioer-dresden/fdz/blob/99e06a0ab893bbc54c801de9651540dcc202a9f5/2021/research_data/3/all_activities_DD.json)
 
