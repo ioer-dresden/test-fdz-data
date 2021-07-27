@@ -1,5 +1,12 @@
 # Potential Wild Bee Habitat in Germany
 
+# Basic information: 
+Format: GeoTIFF
+Resolution: 5 x 5 m 
+Coordinate System: EPSG: 3035 (ETRS89, LAEA)
+Reference year: 2015
+Coverage: Germany
+
 # For details on data access, method and use possibility, please directly contact with [Ms. Meier](https://www.ioer.de/institut/beschaeftigte/meier)
 
 # Cite as:
