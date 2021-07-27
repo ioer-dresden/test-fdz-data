@@ -2,7 +2,7 @@
 # Stätische Grünflächen und Indikatoren: Heidelberg
 
 
-# [Data Download as json ](2021/research_data/2/all_indicators_HD.json)
+# [Data Download as json ](https://github.com/ioer-dresden/fdz/blob/99e06a0ab893bbc54c801de9651540dcc202a9f5/2021/research_data/2/all_indicators_HD.json)
 
 # Cite as:
 
