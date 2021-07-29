@@ -3,6 +3,8 @@
 # Cite as:
 Cakir, S., Schorcht, M., Stanley, C., Rieche, T., Ludwig, C., Gugulica, M., Dunkel, A., Hecht, R. (2021). Städtische Grünflächen und Indikatoren: Dresden (Version 2021) [Data set]. Leibniz Institute of Ecological Urban and Regional Development, Weberplatz 1, 01217 Dresden, Germany. https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-1
 
+
+# Beschreibung:
 Der Datensatz enthält alle öffentlich zugänglichen Grünflächen der Stadt Dresden einschließlich einer Attributtabelle mit 38 verschiedenen Indikatoren. Die Grünflächen und Indikatorenwerte sind zentrale Datengrundlage für die Bewertung der Grünflächen nach Kriterien oder der Eignung für bestimmte Aktivitäten mittels der meinGrün-App (app.meingruen.org).
 Die Grünflächenpolygone wurden mittels eines automatischen Ansatzes generiert, der in Ludwig et al. (2021) näher beschrieben ist. Die Bildung erfolgt auf Grundlage von Annahmen über physische Barrieren, speziell dem Straßen-, Schienen-, und Wassernetz sowie Grenzen bestimmter benachbarter Landnutzungsklassenkombinationen. Für Dresden erfolgte die Bildung der Grünflächenpolygone durch eine kombinierte Verarbeitung von OpenStreetmap, der „Erweiterte Blockkarte (Netto) mit differenzierten Nutzungsarten“ sowie Geometrien zu „Park- und Grünanlagen“ und „Spielplätzen“, welche seitens der Landeshauptstadt Dresden über das Open Data Portal (opendata.dresden.de) frei verfügbar sind. Indikatoren wurden durch das Leibniz-Institut für ökologische Raumentwicklung, dem Heidelberg Institute for Geoinformation Technology an der Universität Heidelberg und dem Institut für Kartographie der TU Dresden prozessiert. Die für die Berechnung der Indikatoren verwendeten Datengrundlagen und Berechnungsvorschriften sind in der Metadatenbeschreibung dokumentiert.
 
@@ -29,4 +31,3 @@ https://doi.org/10.21241/ssoar.73701
 
 Ludwig, C.; Hecht, R.; Lautenbach, S.; Schorcht, M.; Zipf, A. (2021): Mapping Public Urban Green Spaces Based on OpenStreetMap and Sentinel-2 Imagery Using Belief Functions. In: ISPRS International Journal of Geo-Information 10 (2021) 4, S.251
 https://doi.org/10.3390/ijgi10040251
-
