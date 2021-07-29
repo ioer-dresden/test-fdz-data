@@ -1,5 +1,6 @@
 # Städtische Grünflächen und Indikatoren: Dresden
 
+
 # Cite as:
 Cakir, S., Schorcht, M., Stanley, C., Rieche, T., Ludwig, C., Gugulica, M., Dunkel, A., Hecht, R. (2021). Städtische Grünflächen und Indikatoren: Dresden (Version 2021) [Data set]. Leibniz Institute of Ecological Urban and Regional Development, Weberplatz 1, 01217 Dresden, Germany. https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-1
 
