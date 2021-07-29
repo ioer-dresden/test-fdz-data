@@ -10,8 +10,8 @@ Der Datensatz enthält alle öffentlich zugänglichen Grünflächen der Stadt He
 Die Grünflächenpolygone wurden mittels eines automatischen Ansatzes generiert, der in Ludwig et al. (2021) näher beschrieben ist. Die Bildung erfolgt auf Grundlage von Annahmen über physische Barrieren, speziell dem Straßen-, Schienen-, und Wassernetz sowie Grenzen bestimmter benachbarter Landnutzungsklassenkombinationen. Für Heidelberg erfolgte die Bildung der Grünflächenpolygone durch eine kombinierte Verarbeitung von OpenStreetmap und städtischen Daten, speziell einer Geometrie zu statistischen Blöcken, den Park- und Grünanlagen, Spielplätzen, Friedhöfen, Kleingärten und Wäldern. Indikatoren wurden durch das Leibniz-Institut für ökologische Raumentwicklung, dem Heidelberg Institute for Geoinformation Technology an der Universität Heidelberg und dem Institut für Kartographie der TU Dresden prozessiert. Die für die Berechnung der Indikatoren verwendeten Datengrundlagen und Berechnungsvorschriften sind in der Metadatenbeschreibung dokumentiert.
 
 
-# [Data Download as json](https://github.com/ioer-dresden/fdz/blob/99e06a0ab893bbc54c801de9651540dcc202a9f5/2021/research_data/2/all_indicators_HD.json)
-# [Metadaten zu Indikatoren](https://github.com/ioer-dresden/fdz/blob/99e06a0ab893bbc54c801de9651540dcc202a9f5/2021/research_data/2/metadata_indicators_HD.pdf)
+# [Data Download as json](https://github.com/ioer-dresden/fdz/blob/2021/research_data/2/all_indicators_HD.json)
+# [Metadaten zu Indikatoren](https://github.com/ioer-dresden/fdz/blob/2021/research_data/2/metadata_indicators_HD.pdf)
 
 # Projektförderung: 
 mFUND-Projekt: meinGrün (FKZ: 19F2073A)
