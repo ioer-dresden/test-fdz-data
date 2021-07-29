@@ -6,8 +6,7 @@ Die Grünflächenpolygone wurden mittels eines automatischen Ansatzes generiert,
 # [Data Download as json](https://github.com/ioer-dresden/fdz/blob/99e06a0ab893bbc54c801de9651540dcc202a9f5/2021/research_data/1/all_indicators_DD.json)
 # [Metadaten zu Indikatoren](https://github.com/ioer-dresden/fdz/blob/99e06a0ab893bbc54c801de9651540dcc202a9f5/2021/research_data/1/metadata_indicators_DD.pdf)
 
-# Cite as:
-Cakir, S., Schorcht, M., Stanley, C., Rieche, T., Ludwig, C., Gugulica, M., Dunkel, A., Hecht, R. (2021). Städtische Grünflächen und Indikatoren: Dresden (Version 2021) [Data set]. Leibniz Institute of Ecological Urban and Regional Development, Weberplatz 1, 01217 Dresden, Germany. https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-1
+# [DCite as] Cakir, S., Schorcht, M., Stanley, C., Rieche, T., Ludwig, C., Gugulica, M., Dunkel, A., Hecht, R. (2021). Städtische Grünflächen und Indikatoren: Dresden (Version 2021) [Data set]. Leibniz Institute of Ecological Urban and Regional Development, Weberplatz 1, 01217 Dresden, Germany. https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-1
 
 
 Projektförderung: 
