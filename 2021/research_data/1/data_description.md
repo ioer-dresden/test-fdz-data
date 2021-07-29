@@ -12,12 +12,12 @@ Die Grünflächenpolygone wurden mittels eines automatischen Ansatzes generiert,
 # [Metadaten zu Indikatoren](https://github.com/ioer-dresden/fdz/blob/99e06a0ab893bbc54c801de9651540dcc202a9f5/2021/research_data/1/metadata_indicators_DD.pdf)
 
 
-Projektförderung: 
+# Projektförderung: 
 mFUND-Projekt: meinGrün (FKZ: 19F2073A)
 https://www.bmvi.de/SharedDocs/DE/Artikel/DG/mfund-projekte/meingruen.html
 
 
-Referenzen:
+# Referenzen:
 Cakir, S.; Hecht, R.; Krellenberg, K. (2021): Sensitivity analysis in multi-criteria evaluation of the suitability of urban green spaces for recreational activities. In: AGILE GIScience Series, 2, 22 (2021)
 https://doi.org/10.5194/agile-giss-2-22-2021
 
@@ -31,3 +31,4 @@ https://doi.org/10.21241/ssoar.73701
 
 Ludwig, C.; Hecht, R.; Lautenbach, S.; Schorcht, M.; Zipf, A. (2021): Mapping Public Urban Green Spaces Based on OpenStreetMap and Sentinel-2 Imagery Using Belief Functions. In: ISPRS International Journal of Geo-Information 10 (2021) 4, S.251
 https://doi.org/10.3390/ijgi10040251
+
