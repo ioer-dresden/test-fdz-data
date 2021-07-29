@@ -9,8 +9,8 @@ Cakir, S., Schorcht, M., Stanley, C., Rieche, T., Ludwig, C., Gugulica, M., Dunk
 Der Datensatz enthält alle öffentlich zugänglichen Grünflächen der Stadt Dresden einschließlich einer Attributtabelle mit 38 verschiedenen Indikatoren. Die Grünflächen und Indikatorenwerte sind zentrale Datengrundlage für die Bewertung der Grünflächen nach Kriterien oder der Eignung für bestimmte Aktivitäten mittels der meinGrün-App (app.meingruen.org).
 Die Grünflächenpolygone wurden mittels eines automatischen Ansatzes generiert, der in Ludwig et al. (2021) näher beschrieben ist. Die Bildung erfolgt auf Grundlage von Annahmen über physische Barrieren, speziell dem Straßen-, Schienen-, und Wassernetz sowie Grenzen bestimmter benachbarter Landnutzungsklassenkombinationen. Für Dresden erfolgte die Bildung der Grünflächenpolygone durch eine kombinierte Verarbeitung von OpenStreetmap, der „Erweiterte Blockkarte (Netto) mit differenzierten Nutzungsarten“ sowie Geometrien zu „Park- und Grünanlagen“ und „Spielplätzen“, welche seitens der Landeshauptstadt Dresden über das Open Data Portal (opendata.dresden.de) frei verfügbar sind. Indikatoren wurden durch das Leibniz-Institut für ökologische Raumentwicklung, dem Heidelberg Institute for Geoinformation Technology an der Universität Heidelberg und dem Institut für Kartographie der TU Dresden prozessiert. Die für die Berechnung der Indikatoren verwendeten Datengrundlagen und Berechnungsvorschriften sind in der Metadatenbeschreibung dokumentiert.
 
-# [Data Download as json](https://github.com/ioer-dresden/fdz/2021/research_data/1/all_indicators_DD.json)
-# [Metadaten zu Indikatoren](https://github.com/ioer-dresden/fdz/2021/research_data/1/metadata_indicators_DD.pdf)
+# [Data Download as json](https://github.com/ioer-dresden/fdz/blob/main/2021/research_data/1/all_indicators_DD.json)
+# [Metadaten zu Indikatoren](https://github.com/ioer-dresden/fdz/blob/main/2021/research_data/1/metadata_indicators_DD.pdf)
 
 
 # Projektförderung: 
