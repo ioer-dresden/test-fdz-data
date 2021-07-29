@@ -1,7 +1,9 @@
 # Städtische Grünflächen und Indikatoren: Heidelberg
 
 # Cite as:
-Cakir, S., Schorcht, M., Stanley, C., Rieche, T., Ludwig, C., Gugulica, M., Dunkel, A., Hecht, R. (2021). Städtische Grünflächen und Indikatoren: Heidelberg (Version 2021) [Data set]. Leibniz Institute of Ecological Urban and Regional Development, Weberplatz 1, 01217 Dresden, Germany. https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-2
+
+Sercan, C., Schorcht, M., Stanley, C., Theodor, R., Ludwig, C., Gugulica, M., Dunkel, A., & Robert, H. (2021). Städtische Grünflächen und Indikatoren: Heidelberg (Version 2021) [Data set]. Leibniz Institute of Ecological Urban and Regional Development, Weberplatz 1, 01217 Dresden, Germany. https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-2
+
 
 # Beschreibung
 Der Datensatz enthält alle öffentlich zugänglichen Grünflächen der Stadt Heidelberg einschließlich einer Attributtabelle mit 38 verschiedenen Indikatoren. Die Grünflächen und Indikatorenwerte sind zentrale Datengrundlage für die Bewertung der Grünflächen nach Kriterien oder der Eignung für bestimmte Aktivitäten mittels der meinGrün-App (app.meingruen.org).

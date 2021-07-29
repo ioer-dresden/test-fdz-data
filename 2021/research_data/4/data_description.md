@@ -1,7 +1,7 @@
 # Städtische Grünflächen und Aktivitäten: Heidelberg
 
 # Cite as:
-Cakir, S., Schorcht, M., Stanley, C., & Robert, H. (2021). Städtische Grünflächen und Aktivitäten: Heidelberg (Version 2021) [Data set]. Leibniz Institute of Ecological Urban and Regional Development, Weberplatz 1, 01217 Dresden, Germany. https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-4 
+Cakir, S., Schorcht, M., Stanley, C., & Hecht, R. (2021). Städtische Grünflächen und Aktivitäten: Heidelberg (Version 2021) [Data set]. Leibniz Institute of Ecological Urban and Regional Development, Weberplatz 1, 01217 Dresden, Germany. https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-4 
 
 # Beschreibung
 Der Datensatz enthält alle öffentlich zugänglichen Grünflächen der Stadt Heidelberg einschließlich einer Bewertung für die Eignung für physische und passive Aktivitäten. Die Attributtabelle enthält Scores, welche die Eignung der Grünflächen in Bezug auf die Durchführung von 20 verschiedenen Aktivitäten ausdrücken. Die Scores sind Ergebnis einer multikriteriellen Bewertung, welche in Cakir et al. (2021) beschrieben ist. Bei der Berechnung wurden die folgenden Eingaben berücksichtigt: 
@@ -32,4 +32,3 @@ https://doi.org/10.21241/ssoar.73701
  
 Ludwig, C.; Hecht, R.; Lautenbach, S.; Schorcht, M.; Zipf, A. (2021): Mapping Public Urban Green Spaces Based on OpenStreetMap and Sentinel-2 Imagery Using Belief Functions. In: ISPRS International Journal of Geo-Information 10 (2021) 4, S.251
 https://doi.org/10.3390/ijgi10040251 
-
