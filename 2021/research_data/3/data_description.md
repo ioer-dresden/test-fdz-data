@@ -7,6 +7,7 @@ Cakir, S., Schorcht, M., Stanley, C., & Hecht, R. (2021). Städtische Grünfläc
 Der Datensatz enthält alle öffentlich zugänglichen Grünflächen der Stadt Dresden einschließlich einer Bewertung für die Eignung für physische und passive Aktivitäten. Die Attributtabelle enthält Scores, welche die Eignung der Grünflächen in Bezug auf die Durchführung von 20 verschiedenen Aktivitäten ausdrücken. Die Scores sind Ergebnis einer multikriteriellen Bewertung, welche in Cakir et al. (2021) beschrieben ist. Bei der Berechnung wurden die folgenden Eingaben berücksichtigt: 
 -	normierte Indikatorwerte der Kriterien (siehe https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-1) 
 -	die von den Nutzern definierte Gewichtung (siehe Standardgewichte von 0 bis 10 in Tabelle 1) der Kriterien. 
+
 Die Grünflächenpolygone wurden mittels eines automatischen Ansatzes generiert, der in Ludwig et al. (2021) näher beschrieben ist. Die Bildung erfolgt auf Grundlage von Annahmen über physische Barrieren, speziell dem Straßen-, Schienen-, und Wassernetz sowie Grenzen bestimmter benachbarter Landnutzungsklassenkombinationen. Für Dresden erfolgte die Bildung der Grünflächenpolygone durch eine kombinierte Verarbeitung von OpenStreetmap, der „Erweiterte Blockkarte (Netto) mit differenzierten Nutzungsarten“ sowie Geometrien zu „Park- und Grünanlagen“ und „Spielplätzen“, welche seitens der Landeshauptstadt Dresden über das Open Data Portal (opendata.dresden.de) frei verfügbar sind. 
 
 # [Data Download as json](https://github.com/ioer-dresden/fdz/blob/main/2021/research_data/3/all_activities_DD.json)
