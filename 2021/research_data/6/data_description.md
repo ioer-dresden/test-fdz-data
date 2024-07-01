@@ -28,7 +28,7 @@ The results for the access calculation are presented in a unit we call "Minutes"
 - Coverage: Germany
 
 
-# For details on data access, quality, details method and use restriction, please directly consult with [Mr. Reiter](https://www.ioer.de/institut/beschaeftigte/reiter)
+# For details on data access, quality, method and use restriction, please directly consult with [Mr. Reiter](https://www.ioer.de/institut/beschaeftigte/reiter)
 
 
 # Cite as:
