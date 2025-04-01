@@ -4,6 +4,13 @@
 # Cite as:
 Cakir, S., Schorcht, M., Stanley, C., Rieche, T., Ludwig, C., Gugulica, M., Dunkel, A., Hecht, R. (2021). Städtische Grünflächen und Indikatoren: Dresden (Version 2021) [Data set]. Leibniz Institute of Ecological Urban and Regional Development, Weberplatz 1, 01217 Dresden, Germany. https://doi.org/10.26084/IOERFDZ-DATA-DE-2021-1
 
+# License: 
+[Open Database License (ODbL)](https://opendefinition.org/licenses/odc-odbl/)
+
+# related identifier: 
+[mCloud metadata platform](https://www.mcloud.de/web/guest/suche/-/results/suche/relevance/St%C3%A4dtische+Gr%C3%BCnfl%C3%A4chen+und+Indikatoren/0/detail/8BD88422-EE2C-4F48-B783-9BDC23DEBA76)
+
+
 
 # Beschreibung:
 Der Datensatz enthält alle öffentlich zugänglichen Grünflächen der Stadt Dresden einschließlich einer Attributtabelle mit 38 verschiedenen Indikatoren. Die Grünflächen und Indikatorenwerte sind zentrale Datengrundlage für die Bewertung der Grünflächen nach Kriterien oder der Eignung für bestimmte Aktivitäten mittels der meinGrün-App (app.meingruen.org).
